@@ -1,0 +1,15 @@
+h1{
+  font-family: 'Bebas Neue', cursive;
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+}
+a{
+  color:#F9A51A;
+ 
+}
+
+a:hover{
+  color:#ec9606;
+  font-weight: 500;
+}

@@ -1,0 +1,19 @@
+.hotel-card{
+    box-shadow: 1px 1px 3px lightslategrey;
+    border-radius: 15px;
+    margin: 20px;
+    display: flex;
+    justify-content: space-around;
+   flex-direction: row;
+    
+} 
+
+@media screen and (max-width:768px){
+    .hotel-card{
+        flex-direction: column;
+    }
+    
+}
+.hotel-info{
+    padding: 5px;
+}
