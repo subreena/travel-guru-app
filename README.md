@@ -1,4 +1,4 @@
-<h2><strong>Travel Guru - A travel Agency Website </strong></h2>
+# Travel Guru - A travel Agency Website 
 <br>
 Live Website https://travel-guru-by-subreena.firebaseapp.com/
 <br>
